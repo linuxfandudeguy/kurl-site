@@ -15,7 +15,10 @@ function App() {
             To install Kurl, run the following command:
           </p>
           <pre>
-            <code>npm install -g kurl</code>
+            <code>
+           wget https://get-kurl.vercel.app/bin/kurl_1.0.deb
+           sudo dpkg -i kurl_1.0.deb
+           </code>
           </pre>
           <p>
             After installation, you can start using Kurl to make HTTP requests:
