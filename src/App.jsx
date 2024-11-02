@@ -51,7 +51,7 @@ function App() {
         <section className="mt-5">
           <h2>Contributing</h2>
           <p>
-            We welcome contributions! Please check our <a href="https://github.com/your-repo/kurl" target="_blank" rel="noopener noreferrer">GitHub repository</a> for more details.
+            We welcome contributions! Please check our <a href="https://github.com/linuxfandudeguy/kurl" target="_blank" rel="noopener noreferrer">GitHub repository</a> for more details.
           </p>
         </section>
       </main>
