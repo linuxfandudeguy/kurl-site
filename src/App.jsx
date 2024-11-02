@@ -1,5 +1,4 @@
 import './bootstrap.min.css';
-import './bootstrap.bundle.min.js';
 function App() {
   return (
     <div className="App">
